@@ -1,0 +1,17 @@
+{
+  "name": "vsousa14_fivem-discord-bot",
+  "version": "1.0.0",
+  "description": "Self coded FiveM Discord Bot",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1",
+    "discord.js-pagination": "^1.0.3",
+    "fs": "^0.0.1-security"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vsousa14",
+  "license": "ISC"
+}

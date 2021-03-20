@@ -1,0 +1,13 @@
+{
+    "BOT_TOKEN": "ODE5Njc2NTExOTEyNTkxMzYw.YEqFPQ.XorsMtbpqBC3U5FJSfFEhBOwl_o",
+    "SERVER_URL": "51.195.60.203:35036",
+    "SERVER_LOGO": "https://cdn.discordapp.com/attachments/814815572151238679/822737066357162014/endless512x512.png",
+    "SERVER_NAME": "Endless RolePlay",
+    "PREFIX": "+",
+    "CHANNELS_ID":{
+        "SUGGESTIONS":"777573359801204756",
+        "MEMES":"815699533190397963",
+        "ANIMALS":"815699533190397963"
+    }
+    
+}
